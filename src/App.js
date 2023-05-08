@@ -1,14 +1,4 @@
 import React from 'react';
-import ReactDOM from 'react-dom';
-
-// function clock(){
-//   let clock = document.getElementById("clock");
-
-//   setInterval(function(){
-//     clock.innerHTML = new Date().toLocaleDateString();
-//   }, 1000);
-// }
-// clock();
 
 function App(){
   return (
